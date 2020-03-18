@@ -1,0 +1,16 @@
+@import "custom_bootstrap";
+
+
+.playable-td:hover{
+  background-color: aliceblue;
+  color: black;
+}
+
+.speaker-icon{
+  fill: aliceblue;
+}
+
+.playable-td:hover .speaker-icon{
+  fill:black;
+}
+
